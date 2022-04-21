@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kolson463
 - 👀 I’m interested in mobile and web development.
-- 🌱 I’m currently learning dart, flutter, and firebase.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
